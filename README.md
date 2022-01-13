@@ -16,9 +16,9 @@ Password Generator
 * Created a followUp function that used confirm to ask user if they would like to include specific character types
 * Utilized concatination to add on accepted characters to the user's password
 * Created a generatePassword function with a For Loop that used Math.random to populate a random password based off of the character length & character types the user chose
-* Added an Event Listenter that was associated with the event, "click" and the function writePassword
+* Added  Event Listenter that is associated with the event "click" and the function writePassword
 * Created README file with link & screenshot
 
-[Live-site](https://human-exp11.github.io/portfolio/)
+[Live-site](https://human-exp11.github.io/w3-js-password/)
 
-![screenshot](./git-images/screenshotportfolio.png)
+![screenshot](Develop\git-images\PWSS.png)
