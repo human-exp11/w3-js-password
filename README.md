@@ -21,4 +21,4 @@ Password Generator
 
 [Live-site](https://human-exp11.github.io/w3-js-password/)
 
-![screenshot](git-images\PWSS.png)
+![Screenshot](./git-images/PWSS.png)
